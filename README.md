@@ -6,5 +6,5 @@
 -[x] Finished Writing Comments on the CSS Styles<br>
 -[x] Finished Writing Comments on the HTML Portions<br>
 -[x] Went back and spell-checked/rewrote existing comments<br>
--[ ] Peer Review<br>
+-[x] Peer Review<br>
 -[ ] Instructor Review
